@@ -1,0 +1,33 @@
+Key Responsibilities:
+Owning end-to-end ETL pipeline.
+Developing & Improving ETL pipeline for finest quality through maintaining optimal design aiming at 0 production bugs.
+Improve the reliability of the data through implementing validation rules on both original data source and behavioral metrics.
+Build pipelines to acquire from new data sources to satisfy the need of data.
+Resolving problems in production by diagnosis and root cause analysis.
+Communicate efficiently with the wider team to understand the complex problems and provide insights to improve.
+Develop and manage processes and tools to monitor and analyze model performance and data accuracy
+Qualifications:
+Proven experience (2-3 years) of technology startup experience.
+Bachelors degree in Computer Science/Engineering, Mathematics, Statistics
+Experience using statistical computer languages (Python, SQL) to manipulate data and draw insights from large data sets
+Knowledge of AWS / GCP
+Knowledge of Data Warehousing & Data Structures
+Basic experience in Containerization and orchestration tools (Preferable Docker and Airflow)
+A drive to learn and master new technologies and techniques
+Excellent written and verbal communication skills
+Proven ability to convey rigorous technical concepts and considerations to non-experts.
+Strong communication skills for interacting with both internal teams and external stakeholders.
+Ability to manage complex, multi-faceted projects while meeting deadlines.
+
+
+What is in it for you!
+
+The opportunity to shape the future of fashion with a dynamic & autonomous multinational team
+Potential for personal growth, training, and further development of skills
+Enjoy attractive discounts across our brands
+Access to the latest technology tools
+Benefit from a competitive, tax-free salary
+22 days annual leave (pro-rata)
+Medical Insurance
+Annual flight allowance
+Relocation benefits and support
